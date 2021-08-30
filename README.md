@@ -20,6 +20,8 @@ This study examines the expression profiles of basal stem-cell enriched cells  a
 
 GEO Accession ID - [GSE60450](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60450)
 
+The dataset used here is present in `Datasets` folder.
+
 
 
 
@@ -44,5 +46,5 @@ Various plots like heatmap, mean-variance plot, MA plot, and volcano plot were m
 
 
 
-The dataset used here is present in `Datasets` folder.
+
 
