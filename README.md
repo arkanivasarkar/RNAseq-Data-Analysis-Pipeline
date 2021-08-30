@@ -29,16 +29,16 @@ Various plots like heatmap, mean-variance plot, MA plot, and volcano plot were m
 
 
 # Library Size of the Samples
-![alt text](https://postimg.cc/0rn6tsrt) 
+[![Picture4.png](https://i.postimg.cc/DykqwfhK/Picture4.png)](https://postimg.cc/0rn6tsrt)
 
 # HeatMap
-![alt text](https://i.ibb.co/BKr7cVF/Picture1.png) 
+[![Picture3.png](https://i.postimg.cc/v8zQc3FH/Picture3.png)](https://postimg.cc/w31Kr5jS)
 
 # Mean-Variance Plot
-![alt text](https://postimg.cc/ygBdPQK4) 
+[![Picture1.png](https://i.postimg.cc/50QCfTk0/Picture1.png)](https://postimg.cc/ygBdPQK4)
 
 # MA Plot & Volcano Plot
-![alt text](https://i.ibb.co/BKr7cVF/Picture1.png) 
+[![Picture2.png](https://i.postimg.cc/LXFHZW8h/Picture2.png)](https://postimg.cc/7CXvFm7y)
 
 
 
