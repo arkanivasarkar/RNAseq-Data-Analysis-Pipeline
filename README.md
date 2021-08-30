@@ -20,7 +20,7 @@ This study examines the expression profiles of basal stem-cell enriched cells  a
 
 GEO Accession ID - [GSE60450](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60450)
 
-The dataset used here is present in `Datasets` folder.
+ALL the data used is present in `Datasets` folder.
 
 
 
