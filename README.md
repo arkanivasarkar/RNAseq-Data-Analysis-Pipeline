@@ -1,1 +1,1 @@
-# RNAseq-Data-Analysis-Pipeline
+# RNAseq Data Analysis Pipeline
